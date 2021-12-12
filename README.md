@@ -30,3 +30,7 @@ The repository contains the source code for Hate Speech Detection using Machine 
 6. Run the cells one at a time
 
 You can view the results obatined in the [results](https://github.com/PrasannaKumaran/Detecting-Hate-Speech-in-Tweets-using-Machine-Learning/tree/main/Results) folder.
+
+## Team Members
+
+[Prasannakumaran D](http://github.com/PrasannaKumaran), [Praveen Kumar V](https://github.com/praveenkumar0211), [Sai Aashish](https://github.com/Aashish0330), Kshitij Sharma
