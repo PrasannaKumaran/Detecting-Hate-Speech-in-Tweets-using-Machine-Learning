@@ -25,8 +25,8 @@ The repository contains the source code for Hate Speech Detection using Machine 
    ```sh
    pip install -r requirements.txt
    ```
-5. Open the notebook [Code/HateSpeechDetection.ipynb](https://github.com/PrasannaKumaran/Detecting-Hate-Speech-in-Tweets-using-Machine-Learning/Code/HateSpeechDetection.ipynb)
+5. Open the notebook [Code/HateSpeechDetection.ipynb](https://github.com/PrasannaKumaran/Detecting-Hate-Speech-in-Tweets-using-Machine-Learning/blob/main/Code/HateSpeechDetection.ipynb)
 
 6. Run the cells one at a time
 
-You can view the results obatined in the [results](<(https://github.com/PrasannaKumaran/Detecting-Hate-Speech-in-Tweets-using-Machine-Learning/Results/)>) folder.
+You can view the results obatined in the [results](https://github.com/PrasannaKumaran/Detecting-Hate-Speech-in-Tweets-using-Machine-Learning/tree/main/Results) folder.
